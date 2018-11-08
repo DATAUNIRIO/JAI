@@ -68,29 +68,18 @@ section p {
 #section p a:hover {
   color: #888;
 }
-/*
-#section01 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg01.jpg) center center / cover no-repeat;}
-#section02 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg02.jpg) center center / cover no-repeat;}
-#section03 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg03.jpg) center center / cover no-repeat;}
-#section04 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg04.jpg) center center / cover no-repeat;}
-#section05 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg05.jpg) center center / cover no-repeat;}
-#section06 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg06.jpg) center center / cover no-repeat;}
-#section07 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg07.jpg) center center / cover no-repeat;}
-#section08 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg08.jpg) center center / cover no-repeat;}
-#section09 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg09.jpg) center center / cover no-repeat;}
-#section10 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg10.jpg) center center / cover no-repeat;}
- */
 
-#section01 { background: url(C:/Users/Steven/Documents/GitHub/JAI/www/pretobranco/foto1.jpeg) center center / cover no-repeat;}
-#section02 { background: url(C:/Users/Steven/Documents/GitHub/JAI/www/pretobranco/foto2.jpeg) center center / cover no-repeat;}
-#section03 { background: url(C:/Users/Steven/Documents/GitHub/JAI/www/pretobranco/foto3.jpg) center center / cover no-repeat;}
-#section04 { background: url(C:/Users/Steven/Documents/GitHub/JAI/www/pretobranco/foto4.jpg) center center / cover no-repeat;}
-#section05 { background: url(C:/Users/Steven/Documents/GitHub/JAI/www/pretobranco/foto1.jpg) center center / cover no-repeat;}
-#section06 { background: url(C:/Users/Steven/Documents/GitHub/JAI/www/pretobranco/foto2.jpg) center center / cover no-repeat;}
-#section07 { background: url(C:/Users/Steven/Documents/GitHub/JAI/www/pretobranco/foto3.jpg) center center / cover no-repeat;}
-#section08 { background: url(https://www.nxworld.net/example/css-scroll-down-button/foto4.jpg) center center / cover no-repeat;}
-#section09 { background: url(https://www.nxworld.net/example/css-scroll-down-button/foto1.jpg) center center / cover no-repeat;}
-#section10 { background: url(https://www.nxworld.net/example/css-scroll-down-button/foto2.jpg) center center / cover no-repeat;} 
+
+#section01 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto1.jpeg) center center / cover no-repeat;}
+#section02 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto2.jpeg) center center / cover no-repeat;}
+#section03 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto3.jpeg) center center / cover no-repeat;}
+#section04 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto4.jpeg) center center / cover no-repeat;}
+#section05 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto1.jpeg) center center / cover no-repeat;}
+#section06 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto2.jpeg) center center / cover no-repeat;}
+#section07 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto3.jpeg) center center / cover no-repeat;}
+#section08 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto4.jpeg) center center / cover no-repeat;}
+#section09 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto1.jpeg) center center / cover no-repeat;}
+#section10 { background: url(https://raw.githubusercontent.com/DATAUNIRIO/JAI/master/www/pretobranco/foto2.jpeg) center center / cover no-repeat;} 
  
 
 .demo a {
